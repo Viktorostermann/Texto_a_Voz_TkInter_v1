@@ -3,7 +3,7 @@
 Aplicación portable para convertir texto a voz con interfaz gráfica utilizando TkInter desarrollado en Python 3.10v.
 La idea del proyecto es convertir un articulo existente en algun archivo de audio reproducible en formato mp3.
 
-El audio sera extraido luego de pasar una direccion (URL) en el campo correspondiente dentro de la interfaz. Utilizamos para realizar pruebas URL: 
+El audio sera extraido luego de pasar una direccion (URL) en el campo correspondiente dentro de la interfaz. Para realizar pruebas usamos URL: 
 - "Nasa": https://www.npr.org/
 - "BBC": https://www.bbc.com/
 - "CNN": https://edition.cnn.com/
@@ -30,6 +30,9 @@ tambien se espera que al encontrar el audio o articulo en audio mp3, se reproduz
 ## 📦 Ejecutable
 
 - El archivo compilado se encuentra en: https://drive.google.com/file/d/1Bh4p5DWDmux15vUM5iXSc0uxdosDbwXW/view?usp=sharing
+  
+## 🧩 Otros recursos.
+HTML con algunos recursos declarados, utilizados para el desarrollo de Texto_a_Voz_v1: https://drive.google.com/file/d/1RwOCQ_C9ui_5OZPt9HNoWX7yFd1falgt/view?usp=sharing
 
 > ⚠️ Los certificados `.pfx` no están incluidos por seguridad.
 
@@ -37,23 +40,22 @@ tambien se espera que al encontrar el audio o articulo en audio mp3, se reproduz
 
 Este proyecto se publica bajo la licencia MIT.
 
-🧾 ¿Qué permite la licencia MIT?
+## 🧾 ¿Qué permite la licencia MIT?
 
-1- Usar el software para cualquier propósito, incluso comercial.
-2- Copiar y modificar el código sin restricciones.
-3- Distribuir el software, ya sea original o modificado.
-4- Sub-licenciar o vender el software como parte de otro producto.
+1. **Usar** el software para cualquier propósito, incluso comercial.  
+2. **Copiar y modificar** el código sin restricciones.  
+3. **Distribuir** el software, ya sea original o modificado.  
+4. **Sub-licenciar o vender** el software como parte de otro producto.  
 
-⚠️ ¿Qué condiciones impone?
+## ⚠️ ¿Qué condiciones impone?
 
-1- Debes mantener el aviso de derechos de autor y el texto de la licencia original en todas las copias o versiones modificadas.
-2- El software se ofrece “tal cual”, sin garantías. El autor no se responsabiliza por errores, daños o mal funcionamiento.
+1. Debes **mantener el aviso de derechos de autor** y el texto de la licencia original en todas las copias o versiones modificadas.  
+2. El software se ofrece **“tal cual”**, sin garantías. El autor no se responsabiliza por errores, daños o mal funcionamiento.  
 
-🧠 ¿Por qué es tan popular?
+## 🧠 ¿Por qué es tan popular?
 
-1- Es compatible con otras licencias, incluso con licencias más restrictivas como la GPL.
-2- Su simplicidad facilita el uso en proyectos personales, comerciales y colabor
+1. Es **compatible con otras licencias**, incluso con licencias más restrictivas como la GPL.  
+2. Su **simplicidad** facilita el uso en proyectos personales, comerciales y colaborativos.  
 
 → Si lo descargastes y te gusto la idea, dejame tu comentario y si quieres charlar sobre el tema tomemos un café!
 
-# Texto_a_Voz_TkInter_v1.
