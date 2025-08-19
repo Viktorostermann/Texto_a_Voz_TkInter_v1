@@ -13,7 +13,7 @@ Aplicación portable para convertir texto a voz con interfaz gráfica en Python.
 
 ## 📦 Ejecutable
 
-El archivo compilado se encuentra en: dist/Modulo_precompilar/Texto_a_Voz_Portable.exe
+El archivo compilado se encuentra en: https://drive.google.com/file/d/1Bh4p5DWDmux15vUM5iXSc0uxdosDbwXW/view?usp=sharing
 
 
 > ⚠️ Los certificados `.pfx` no están incluidos por seguridad.
