@@ -1,4 +1,4 @@
-# Texto a Voz TkInter v1
+# Texto a Voz
 
 Aplicación portable para convertir texto a voz con interfaz gráfica utilizando TkInter desarrollado en Python 3.10v.
 La idea del proyecto es convertir un articulo existente en algun archivo de audio reproducible en formato mp3.
