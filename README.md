@@ -14,7 +14,8 @@ El audio sera extraido luego de pasar una direccion (URL) en el campo correspond
 - "ScientificAmerican": https://www.scientificamerican.com/.
 
 Asi mismo. Fueron utilizadas las bibliotecas del entorno de Python como: newspaper3k, pyttsx3 y gtts principales para el proyecto, entre otras.
-tambien se espera que al encontrar el audio o articulo en audio mp3, se reproduzca y se genere el texto del mismo.
+tambien se espera que al encontrar el audio o articulo en audio mp3, se reproduzca y se genere el texto del mismo. Desarrollo (Beta) entorno Windows.
+Proxima version (V1.1) Será compilada para entorno Linux Ubuntu 24.04.3 LTS / noble.
 
 ## 🧩 Características
 
