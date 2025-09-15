@@ -65,7 +65,7 @@ Este proyecto se publica bajo la licencia MIT.
 
 ## 🧩 Características:
 
-- Compilacion en 
+- Compilacion en Linux Texto_a_Voz_v2
 - Entrada: texto manual y fuentes web compatibles.
 - Salida: audios en Reportes/Audios_URLS/, logs en Reportes/Logs_GUI/.
 - Experiencia visual: ícono y branding integrados.
@@ -77,11 +77,11 @@ Este proyecto se publica bajo la licencia MIT.
 
 ## 📦 Instalador o Lanzador:
 
-## Instalador: https://drive.google.com/file/d/17AltDD8rnXDVB9546bKmNmn1x50QoCg6/view?usp=sharing
+## Instalador comprimido en .zip: https://drive.google.com/file/d/1a6XzTdherBqtktacFo2IMKaBcOrK7Gh_/view?usp=sharing
 
 Ejecución y lanzador:
 
-Terminal: Texto_a_Voz_TkInter_v1
+Terminal: Texto_a_Voz_TkInter_v2
 
 Interfaz gráfica: abre el menú de aplicaciones y busca “Texto a Voz (Tkinter)”.
 
